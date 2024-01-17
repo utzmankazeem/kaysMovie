@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/utzmankazeem/kaysMovie.git/static/css/main.f84a4e7d.css",
-    "main.js": "/utzmankazeem/kaysMovie.git/static/js/main.3757b2fb.js",
-    "index.html": "/utzmankazeem/kaysMovie.git/index.html",
-    "main.f84a4e7d.css.map": "/utzmankazeem/kaysMovie.git/static/css/main.f84a4e7d.css.map",
-    "main.3757b2fb.js.map": "/utzmankazeem/kaysMovie.git/static/js/main.3757b2fb.js.map"
+    "main.css": "/utzmankazeem/kaysMovie/static/css/main.f84a4e7d.css",
+    "main.js": "/utzmankazeem/kaysMovie/static/js/main.3757b2fb.js",
+    "index.html": "/utzmankazeem/kaysMovie/index.html",
+    "main.f84a4e7d.css.map": "/utzmankazeem/kaysMovie/static/css/main.f84a4e7d.css.map",
+    "main.3757b2fb.js.map": "/utzmankazeem/kaysMovie/static/js/main.3757b2fb.js.map"
   },
   "entrypoints": [
     "static/css/main.f84a4e7d.css",
