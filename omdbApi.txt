@@ -1,0 +1,12 @@
+omdbapi.com/apikey
+Free
+Email,Name,Use
+submit
+activate Email &copy ApiKey from within the email
+comment the key into your react App!!! 
+
+myKey
+http://www.omdbapi.com?apikey=yourKey
+http://www.omdbapi.com?apikey=3a30cede
+ 
+https://utzmankazeem.github.io/kaysMovie
