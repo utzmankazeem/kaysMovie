@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## FEatures
+## Features
 
-this project simulates movies platform, such as netflix etc, users can easily search for movies and stream.
+this project is a movies platform, such as netflix etc, users can easily search for movies and see details.
 
 To learn see usage, check out the [React documentation] (https://utzmankazeem.github.io/kaysMovie).
 
@@ -34,7 +34,7 @@ npm start to run app
 #Async/Await 
 #CSS3
 #api
-#SPA-App
+#SPA
 #FrontendDev
 
 
