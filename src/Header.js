@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { FaSearch } from 'react-icons/fa'
 const ApiUrl = 'http://www.omdbapi.com?apikey=3a30cede'
-let title = "Moflix Movies"
+let title = "Movlix Streams"
 
 const Header = ({ setMovies }) => {
   const [search, setSearch] = useState('')

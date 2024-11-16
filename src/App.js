@@ -5,7 +5,7 @@ import Footer from './Footer';
 
 const movie = {
   "Title": "Multiverse of Madness",
-  "Year": "2012",
+  "Year": "2018",
   "imdbID": "t567td44",
   "Type": "Sci/fi",
   "Poster": "N/A"

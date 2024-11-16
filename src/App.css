@@ -189,6 +189,9 @@ h3 {
   opacity: 1;
 }
 
+.footer {
+  justify-content: center;
+}
 @media screen and (max-width: 600px) {
   .app {
     padding: 4rem 2rem;
