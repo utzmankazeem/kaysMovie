@@ -5,7 +5,7 @@ const Footer = ({length}) => {
   return (
     <footer className="footer">
       <p>
-         {length} catalogue of movies|copyright &copy; {tDay.getFullYear()}
+         {length} catalogue of movies | copyright &copy; {tDay.getFullYear()}
       </p>  
     </footer>
         

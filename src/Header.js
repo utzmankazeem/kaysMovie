@@ -6,18 +6,18 @@ let title = "Movlix Streams"
 const Header = ({ setMovies }) => {
   const [search, setSearch] = useState('')
 
-  const movieSearch = async (title) => {
+  const movieSearch = async (title) => {  
     const res = await fetch(`${ApiUrl}&s=${title}`)
     const data = await res.json();
     setMovies(data.Search);
   }
   useEffect(() => {
-    movieSearch('favMov')
+    movieSearch('Avengers')
   }, [])
 
   return (
     <header>
-      <h1>{title}</h1>
+      <h1 className='title'>{title}</h1>
       <search className='search'>
         <input
           placeholder='search for movies'
@@ -25,6 +25,7 @@ const Header = ({ setMovies }) => {
           onChange={(e) => setSearch(e.target.value)}
         />
         <FaSearch
+          className='img'
           alt="search"
           onClick={() => movieSearch(search)}
         />

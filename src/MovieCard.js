@@ -1,8 +1,8 @@
 const MovieCard = ({ movie }) => {
 
   return (
-    <main className="movie">
-      <movie>
+    <main className="container">
+      <movie className="movie">
         <div>
           <p>{movie.Year}</p>
         </div>

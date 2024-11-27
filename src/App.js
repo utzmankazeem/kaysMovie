@@ -23,15 +23,14 @@ function App() {
             <main>
               {movies.map((movie) => (
                 <MovieCard movie={movie} />
-              ))
-              }
+              ))}
             </main>
           ) : (
-            <empty>
-              <MovieCard
+            <empty className="empty">
+              {/* <MovieCard
                 movie={movie}
-              />
-              <h3>search for movies</h3>
+              /> */}
+              <h5>No movies found</h5>
             </empty>
           )
       }

@@ -4,15 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features
 
-this project is a movies platform, such as netflix etc, users can easily search for movies and see details.
+this project is a movies platform, such that users can easily search for movies and see details.
 
 To learn see usage, check out the [React documentation] (https://utzmankazeem.github.io/kaysMovie).
 
 ### Code Splitting
 
 the application was created with robust user experience in mind,
-movies are gotten from an api
-plaement and structure are with my designed css.
+movies fetched from an api based on search term
+displayed back to the user in proper context of designs
+placement and structure are designed and implemented with css.
 
 ### npm install
 
@@ -35,6 +36,7 @@ npm start to run app
 #CSS3
 #api
 #SPA
+#Movies
 #FrontendDev
 
 
