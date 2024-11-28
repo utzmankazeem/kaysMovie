@@ -3,13 +3,13 @@ import Header from './Header';
 import MovieCard from './MovieCard';
 import Footer from './Footer';
 
-const movie = {
-  "Title": "Multiverse of Madness",
-  "Year": "2018",
-  "imdbID": "t567td44",
-  "Type": "Sci/fi",
-  "Poster": "N/A"
-}
+// const movie = {
+//   "Title": "Multiverse of Madness",
+//   "Year": "2018",
+//   "imdbID": "t567td44",
+//   "Type": "Sci/fi",
+//   "Poster": "N/A"
+// }
 
 function App() {
   const [movies, setMovies] = useState([]);
@@ -34,7 +34,7 @@ function App() {
             </empty>
           )
       }
-      <Footer length={movie.length} />
+      <Footer length={movies.length} />
     </div>
   );
 }

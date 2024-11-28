@@ -92,9 +92,10 @@ h5 {
 
 .empty{
   width: 100%;
-  display: grid;
+  display: flex;
   justify-content: center;
-  align-items: center;
+  align-content: center;
+  margin-top:200px;
 }
 
 .empty h5 {
