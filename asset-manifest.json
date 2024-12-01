@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kaysMovie/static/css/main.a0d447f9.css",
-    "main.js": "/kaysMovie/static/js/main.37ab14bf.js",
+    "main.css": "/kaysMovie/static/css/main.6eb4d5fe.css",
+    "main.js": "/kaysMovie/static/js/main.10d6f230.js",
     "index.html": "/kaysMovie/index.html",
-    "main.a0d447f9.css.map": "/kaysMovie/static/css/main.a0d447f9.css.map",
-    "main.37ab14bf.js.map": "/kaysMovie/static/js/main.37ab14bf.js.map"
+    "main.6eb4d5fe.css.map": "/kaysMovie/static/css/main.6eb4d5fe.css.map",
+    "main.10d6f230.js.map": "/kaysMovie/static/js/main.10d6f230.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d447f9.css",
-    "static/js/main.37ab14bf.js"
+    "static/css/main.6eb4d5fe.css",
+    "static/js/main.10d6f230.js"
   ]
 }
